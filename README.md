@@ -5,4 +5,4 @@
 
   ### Screenshots
  
- <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14" width="200" height="300">
+ <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14" width="250" height="350">
