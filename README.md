@@ -3,6 +3,6 @@
     it is integrated with a map to track delivery and also a friendly cart user interface
     where you can easily add and slide to dismiss a product.
 
- ###Screenshots
+  ### Screenshots
  
- <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14" width="150" height="200">
+ <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14" width="200" height="300">
