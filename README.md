@@ -4,4 +4,4 @@
     where you can easily add and slide to dismiss a product.
 
     
-![Screenshots](https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14)
+replace ![Screenshots](https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14) with <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/6a04dc2c-fc58-49f7-a2e3-209d28168b14" width="100" height="100">
