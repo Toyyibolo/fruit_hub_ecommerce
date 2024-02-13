@@ -5,6 +5,6 @@
 
   ### Screen Record
  
- <img src="https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/02554c99-0a59-4e8b-8729-7fb18555737e" width="250" height="350">
+ https://github.com/Toyyibolo/fruit_hub_ecommerce/assets/67557361/02554c99-0a59-4e8b-8729-7fb18555737e
 
  
